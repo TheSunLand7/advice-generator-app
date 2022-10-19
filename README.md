@@ -35,8 +35,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Github](https://gitlab.com/xiayudev/interactive-card-form)
-- Live Site URL: [Netlify](https://interactive-form-mentor.netlify.app/)
+- Solution URL: [Github](https://github.com/TheSunLand7/advice-generator-app)
+- Live Site URL: [Netlify](https://advice-generator-fmentor-thesunland7.netlify.app/)
 
 ## My process
 
